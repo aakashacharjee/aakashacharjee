@@ -54,9 +54,3 @@
 <img align="left" src="https://profile-counter.glitch.me/aakashacharjee/count.svg?"  />
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aakashacharjee/aakashacharjee/output/snake.svg" alt="Snake animation" />
-
-###
