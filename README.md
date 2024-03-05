@@ -49,8 +49,8 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/_._a.a.k.a.s.h_._/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://aakashacharjee.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=FB8C00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
   </a>
   <a href="https://discordapp.com/users/aakash1111" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
